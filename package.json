@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "@appium/execute-driver-plugin": "2.0.6",
+    "@appium/images-plugin": "1.3.7",
+    "appium-dashboard": "1.0.0-beta.14",
+    "appium-device-farm": "2.0.0-beta.6",
+    "appium-device-plugin": "1.0.0-beta.4",
+    "appium-uiautomator2-driver": "2.8.0"
+  }
+}
